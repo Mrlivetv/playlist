@@ -21,7 +21,7 @@ https://dl.dropbox.com/scl/fi/1lbof8fn6tjgm8l08fyb4/D31PR4E1DA1AD4OR.mkv?rlkey=p
 
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
-#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Sports", tvg-name="Massranga"
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Sports", Massranga
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports", Star Sports 1
 https://criccoder.pages.dev/ss1.m3u8
